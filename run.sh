@@ -1,1 +1,1 @@
-echo "code upadted" > /tmp/report
+echo "code upadted for POll SCM" > /tmp/report
