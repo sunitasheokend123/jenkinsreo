@@ -1,1 +1,1 @@
-echo "build trigger"
+echo "code upadted" > /tmp/report
